@@ -1,7 +1,7 @@
 # MayShow
 ## Description
 This is an app that building a connection between users, allowing them to start a live video stream and watch others’ recording/recorded streams. The whole structure is shown here.
-
+![project report-4](https://user-images.githubusercontent.com/22084018/32587827-adf55594-c4d8-11e7-929a-10370c2cfd88.jpg)
 
 
 ## API and Libraries
